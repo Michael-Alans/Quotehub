@@ -72,4 +72,8 @@ a {
     font-weight: 700;
     font-size: 1rem;
     border: 1px solid #ffffff;
+} 
+
+@media (max-width:400px) {
+    body { padding:7px}
 }
